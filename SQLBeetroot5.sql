@@ -1,6 +1,0 @@
-CREATE TABLE PhoneBookContact
-(
-	ID INT PRIMARY KEY IDENTITY,
-	NameOfContact NVARCHAR(20),
-	Phone VARCHAR(20) UNIQUE
-);

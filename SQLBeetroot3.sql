@@ -1,7 +1,0 @@
-CREATE TABLE UsersLoginHistory
-(
-	ID INT PRIMARY KEY IDENTITY,
-	User_ NVARCHAR(20),
-	LogHistory DATETIME,
-
-);
