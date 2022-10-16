@@ -30,3 +30,4 @@ SELECT COUNT(*) FROM PersonTable AS numOfRows
 
 SELECT Age, COUNT(*) AS countSameAge FROM PersonTable AS PERSON
 GROUP BY Age
+--checked
